@@ -1,4 +1,4 @@
-# Prototypical Networks for One-Shot, Few-Shot, and Self-Supervised Learning on ChestMNIST
+# A Comparative Study of Prototypical Networks in Few-Shot and Self-Supervised Medical Image Classification.
 
 This repository contains the code and experiments for a comparative study on **One-Shot**, **Few-Shot**, and **Self-Supervised Learning (RotNet)** methods using **Prototypical Networks** for **multi-label classification** on the ChestMNIST dataset.
 
